@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true" align="center" />
+<img src="https://badge42.herokuapp.com/api/stats/nortolan?privacyEmail=true" align="center" />
