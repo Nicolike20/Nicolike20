@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://badge42.herokuapp.com/api/stats/nortolan?privacyEmail=true" align="center" />
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9e845mr00250fl71j5bbx00/stats?cursusId=21&coalitionId=65" alt="nortolan's 42 stats" /></a>
