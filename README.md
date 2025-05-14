@@ -51,30 +51,26 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 <span align="center">
 
 # 🌺 Waddup! I'm Nico 🏴‍☠️ 
-</span>  
-<br><br>
+</span> <br><br>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="max-width: 60%;">
-    
-  ## 👋 About me
+<div style="max-width: 60%;">
 
-  I'm a software development student based in **Madrid**.<br>
-  Originally from **Jerez de la Frontera**.<br>
-  I'm currently sailing through the 42 coding curriculum —<br>
-  building everything from tiny Unix shells to full IRC servers —<br>
-  and loving every stormy challenge along the way.<br>
+<img align="right" src="./media/212693.gif" style="object-fit: cover; height: 500px; float: right; margin-left: 20px;">
 
-  ## 📫 Get in Touch
+## 👋 About me
 
-  - 📧 **Email:** nortolansoto@gmail.com  
-  - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
+I'm a software development student based in **Madrid**.<br>
+Originally from **Jerez de la Frontera**.<br>
+I'm currently sailing through the 42 coding curriculum —<br>
+building everything from tiny Unix shells to full IRC servers —<br>
+and loving every stormy challenge along the way.<br>
 
-  </div>
+## 📫 Get in Touch
 
-  <img src="./media/212693.gif" alt="outer wilds gif" style="object-fit: cover; height: 400px; border-radius: 10px;">
+- 📧 **Email:** nortolansoto@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
+
 </div>
-
 <br><br>
 
 ## 💻 Projects I'm Proud Of
