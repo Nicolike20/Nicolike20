@@ -1,18 +1,45 @@
-### Hi there 👋
+<img src="https://giffiles.alphacoders.com/212/212693.gif" width="100%" alt="pirate banner"/>
 
-<!--
-**Nicolike20/Nicolike20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌺 Waddup! I'm Nico 🏴‍☠️ 
 
-Here are some ideas to get you started:
+I'm a software development student based in **Madrid**, originally from **Jerez de la Frontera**. 
+I'm currently sailing through the 42 coding curriculum, building everything from tiny Unix shells to full IRC servers — and loving every stormy challenge along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9e845mr00250fl71j5bbx00/stats?cursusId=21&coalitionId=65" alt="nortolan's 42 stats" /></a>
+
+---
+
+## 💻 Projects I'm Proud Of
+
+
+
+- **🌀 minishell**: A functional Unix shell that supports pipes, redirections, built-ins, and more.
+
+- **🏝️ inception**: A Docker-based system architecture project to build a virtualized web server stack.
+- **🤔 philosophers**: A multithreading simulation of the classic Dining Philosophers problem.
+- **📡 ft_irc**: A basic IRC server implementing the core of the IRC protocol.
+- **📦 push_swap**, **🧱 so_long**, **🧪 pipex**, **🧠 cub3D**, and more – covering everything from algorithm optimization to game development to 3D rendering.
+
+
+
+
+
+---
+
+## 🏴‍☠️ A Few Fun Facts
+
+- 💥 My code compiles (most of the time).
+- 🛹 I skate to clear my head and debug my life.
+- 🕺 Breaking is a real programming skill — it’s called *“flow control.”* 
+
+
+---
+
+## 📫 Get in Touch
+
+
+
+- 📧 **Email:** nortolansoto@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
+
+Thanks for stopping by!
