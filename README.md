@@ -47,7 +47,7 @@ building everything from tiny Unix shells to full IRC servers —<br>
 and loving every stormy challenge along the way.<br>
 
 <!-- Custom line width -->
-<hr style="width: 30%; margin-left: 0;"> <!-- Adjust width as needed -->
+<hr style="width: 5%; margin-left: 0;"> <!-- Adjust width as needed -->
 
 <br><br> <!-- Push "Get in Touch" down a bit -->
 
@@ -57,7 +57,7 @@ and loving every stormy challenge along the way.<br>
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
 <!-- Custom line width -->
-<hr style="width: 30%; margin-left: 0;"> <!-- Adjust width as needed -->
+<hr style="width: 5%; margin-left: 0;"> <!-- Adjust width as needed -->
 
 </span>
 
