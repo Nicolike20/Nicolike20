@@ -5,7 +5,7 @@
 
 <span align="left">
 
-<img align="right" src=./media/212693.gif style="object-fit: cover; height: 275px; float: right;">
+<img align="right" src=./media/212693.gif style="object-fit: cover; height: 400px; float: right;">
 
 I'm a software development student based in **Madrid**.<br>
 Originally from **Jerez de la Frontera**.<br>
