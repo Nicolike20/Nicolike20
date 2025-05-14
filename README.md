@@ -48,7 +48,7 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 
 # 🌺 Waddup! I'm Nico 🏴‍☠️ 
 
-<table>
+<table align="center">
 <tr>
 <td>
 
