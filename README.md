@@ -32,7 +32,7 @@ and loving every stormy challenge along the way.<br>
 </span> 
 <br><br>
 
-<div style="max-width: 5%; display: inline-block;">
+<span align="left">
 
 <img align="right" src=./media/212693.gif style="object-fit: cover; height: 500px; float: right;">
 
@@ -46,6 +46,9 @@ I'm currently sailing through the 42 coding curriculum —<br>
 building everything from tiny Unix shells to full IRC servers —<br>
 and loving every stormy challenge along the way.<br>
 
+<!-- Custom line width -->
+<hr style="width: 80%; margin-left: 0;"> <!-- Adjust width as needed -->
+
 <br><br> <!-- Push "Get in Touch" down a bit -->
 
 ## 📫 Get in Touch
@@ -53,7 +56,10 @@ and loving every stormy challenge along the way.<br>
 - 📧 **Email:** nortolansoto@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
-</div>
+<!-- Custom line width -->
+<hr style="width: 80%; margin-left: 0;"> <!-- Adjust width as needed -->
+
+</span>
 
 <br><br> <!-- Push following sections below the image -->
 
