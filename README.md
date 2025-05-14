@@ -55,6 +55,7 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 <div align="left">
 
 <img align="right" src="./media/212693.gif" style="object-fit: cover; height: 500px; float: right; margin-left: 20px; margin-bottom: 20px;">
+
 ### <span style="display: inline-block; width: fit-content;">👋 About me</span>
 
 I'm a software development student based in **Madrid**.  
@@ -62,12 +63,12 @@ Originally from **Jerez de la Frontera**.
 I'm currently sailing through the 42 coding curriculum —  
 building everything from tiny Unix shells to full IRC servers —  
 and loving every stormy challenge along the way.
-<br>
+
 ### <span style="display: inline-block; width: fit-content;">📫 Get in Touch</span>
 
 - 📧 **Email:** nortolansoto@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
-<br>
+
 </div>
 
 ---
@@ -90,5 +91,9 @@ and loving every stormy challenge along the way.
 
 ---
 
-Thanks for stopping by — always open to new opportunities or collaborations!
+### 📫 Get in Touch
 
+- 📧 **Email:** nortolansoto@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
+
+Thanks for stopping by — always open to new opportunities or collaborations!
