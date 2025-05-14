@@ -55,7 +55,7 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 <div align="left">
 
 <img align="right" src="./media/212693.gif" style="object-fit: cover; height: 500px; float: right; margin-left: 20px; margin-bottom: 20px;">
-
+<br><br><br>
 ### <span style="display: inline-block; width: fit-content;">👋 About me</span>
 
 I'm a software development student based in **Madrid**.  
