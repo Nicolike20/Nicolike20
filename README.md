@@ -50,11 +50,13 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 
 <h1 align="center">🌺 Waddup! I'm Nico 🏴‍☠️</h1>
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<br>
 
-<div style="flex: 1; min-width: 250px;">
+<div align="left">
 
-### 👋 About me
+<img align="right" src="./media/212693.gif" style="object-fit: cover; height: 500px; float: right; margin-left: 20px; margin-bottom: 20px;">
+
+### <span style="display: inline-block; width: fit-content;">👋 About me</span>
 
 I'm a software development student based in **Madrid**.  
 Originally from **Jerez de la Frontera**.  
@@ -62,16 +64,10 @@ I'm currently sailing through the 42 coding curriculum —
 building everything from tiny Unix shells to full IRC servers —  
 and loving every stormy challenge along the way.
 
-### 📫 Get in Touch
+### <span style="display: inline-block; width: fit-content;">📫 Get in Touch</span>
 
 - 📧 **Email:** nortolansoto@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
-
-</div>
-
-<div style="flex-shrink: 0;">
-  <img src="./media/212693.gif" alt="pirate gif" style="object-fit: cover; height: 400px; border-radius: 8px;">
-</div>
 
 </div>
 
