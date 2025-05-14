@@ -1,7 +1,7 @@
 <span align="center">
 
 # 🌺 Waddup! I'm Nico 🏴‍☠️ 
-</span>
+</span> <br><br>
 
 <span align="left">
 
@@ -11,7 +11,7 @@ I'm a software development student based in **Madrid**.<br>
 Originally from **Jerez de la Frontera**.<br>
 I'm currently sailing through the 42 coding curriculum —<br>
 building everything from tiny Unix shells to full IRC servers —<br>
-and loving every stormy challenge along the way.
+and loving every stormy challenge along the way.<br>
 
 ## 📫 Get in Touch
 
