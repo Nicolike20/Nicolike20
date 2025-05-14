@@ -7,8 +7,7 @@
 
 <span align="left">
 
-<!--<p align="right">-->
-  <img align="right" src="https://giffiles.alphacoders.com/212/212693.gif" style="object-fit: cover; height: 275px; float: right;">
+<img align="right" src="https://giffiles.alphacoders.com/212/212693.gif" style="object-fit: cover; height: 275px; float: right;">
 
 </p>
 
