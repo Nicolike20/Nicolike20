@@ -57,7 +57,7 @@ and loving every stormy challenge along the way.<br>
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
 <!-- Custom line width -->
-<hr style="width: 80%; height: 5%; margin-left: 0;"> <!-- Adjust width as needed -->
+<hr style="width: 80%; height: 1%; margin-left: 0;"> <!-- Adjust width as needed -->
 
 </span>
 
