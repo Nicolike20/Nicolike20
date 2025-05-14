@@ -13,6 +13,11 @@ I'm currently sailing through the 42 coding curriculum —<br>
 building everything from tiny Unix shells to full IRC servers —<br>
 and loving every stormy challenge along the way.
 
+## 📫 Get in Touch
+
+- 📧 **Email:** nortolansoto@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
+
 </span>
 <br><br>
 
@@ -32,7 +37,6 @@ and loving every stormy challenge along the way.
 </td>
 </tr>
 </table>-->
-</span>
 ## 💻 Projects I'm Proud Of
 
 - **🌀 minishell**: A functional Unix shell that supports pipes, redirections, built-ins, and more.
