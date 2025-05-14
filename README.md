@@ -65,9 +65,6 @@ building everything from tiny Unix shells to full IRC servers —
 and loving every stormy challenge along the way.
 
 
-
-
-
 ### <span style="display: inline-block; width: fit-content;">📫 Get in Touch</span>
 
 - 📧 **Email:** nortolansoto@gmail.com  
