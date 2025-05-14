@@ -98,10 +98,5 @@ and loving every stormy challenge along the way.<br>
 
 ---
 
-## 📫 Get in Touch
-
-- 📧 **Email:** nortolansoto@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
-
 Thanks for stopping by — always open to new opportunities or collaborations!
 
