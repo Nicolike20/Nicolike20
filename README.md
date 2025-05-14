@@ -48,32 +48,36 @@ and loving every stormy challenge along the way.<br>
 
 Thanks for stopping by — always open to new opportunities or collaborations!-->
 
-<span align="center">
+<h1 align="center">🌺 Waddup! I'm Nico 🏴‍☠️</h1>
 
-# 🌺 Waddup! I'm Nico 🏴‍☠️ 
-</span> <br><br>
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-<div style="max-width: 60%;">
+<div style="flex: 1; min-width: 250px;">
 
-<img align="right" src="./media/212693.gif" style="object-fit: cover; height: 500px; float: right; margin-left: 20px;">
+### 👋 About me
 
-## 👋 About me
+I'm a software development student based in **Madrid**.  
+Originally from **Jerez de la Frontera**.  
+I'm currently sailing through the 42 coding curriculum —  
+building everything from tiny Unix shells to full IRC servers —  
+and loving every stormy challenge along the way.
 
-I'm a software development student based in **Madrid**.<br>
-Originally from **Jerez de la Frontera**.<br>
-I'm currently sailing through the 42 coding curriculum —<br>
-building everything from tiny Unix shells to full IRC servers —<br>
-and loving every stormy challenge along the way.<br>
-
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 - 📧 **Email:** nortolansoto@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
 </div>
-<br><br>
 
-## 💻 Projects I'm Proud Of
+<div style="flex-shrink: 0;">
+  <img src="./media/212693.gif" alt="pirate gif" style="object-fit: cover; height: 400px; border-radius: 8px;">
+</div>
+
+</div>
+
+---
+
+### 💻 Projects I'm Proud Of
 
 - **🌀 minishell**: A functional Unix shell that supports pipes, redirections, built-ins, and more.  
 - **🏝️ inception**: A Docker-based system architecture project to build a virtualized web server stack.  
@@ -83,7 +87,7 @@ and loving every stormy challenge along the way.<br>
 
 ---
 
-## 🏴‍☠️ A Few Fun Facts
+### 🏴‍☠️ A Few Fun Facts
 
 - 💥 My code compiles (most of the time).  
 - 🛹 I skate to clear my head and debug my life.  
@@ -91,11 +95,10 @@ and loving every stormy challenge along the way.<br>
 
 ---
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 - 📧 **Email:** nortolansoto@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
 Thanks for stopping by — always open to new opportunities or collaborations!
-
 
