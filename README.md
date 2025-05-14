@@ -59,7 +59,7 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 
 <img align="right" src=./media/212693.gif style="object-fit: cover; height: 500px; float: right;">
 
-<br><br> <!-- Push "About me" down -->
+<br> <!-- Push "About me" down -->
 
 ## 👋 About me
 
@@ -78,7 +78,7 @@ and loving every stormy challenge along the way.<br>
 
 </span>
 
-<br><br><br> <!-- Push following sections below the image -->
+<br><br> <!-- Push following sections below the image -->
 
 ## 💻 Projects I'm Proud Of
 
