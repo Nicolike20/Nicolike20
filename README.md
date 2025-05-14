@@ -1,11 +1,18 @@
 # 🌺 Hey there! I'm Nico 🏴‍☠️ 
 
+</span>
+<br><br>
+
+<span align="left">
+
 <p align="right">
   <img src="https://giffiles.alphacoders.com/212/212693.gif" width="200" alt="outer wilds banner"/>
 </p>
 
 I'm a software development student based in **Madrid**, originally from **Jerez de la Frontera**.  
 I'm currently sailing through the 42 coding curriculum — building everything from tiny Unix shells to full IRC servers — and loving every stormy challenge along the way.
+
+</span>
 
 ---
 
