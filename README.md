@@ -44,6 +44,7 @@ To full IRC servers — and loving every stormy challenge along the way.<br><br>
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
 Thanks for stopping by — always open to new opportunities or collaborations!-->
+<span align="center">
 
 # 🌺 Waddup! I'm Nico 🏴‍☠️ 
 
@@ -63,7 +64,8 @@ and loving every stormy challenge along the way.
 </td>
 </tr>
 </table>
-
+</td>
+<span>
 ---
 
 ## 💻 Projects I'm Proud Of
