@@ -78,7 +78,7 @@ building everything from tiny Unix shells to full IRC servers —<br>
 and loving every stormy challenge along the way.<br>
 
 <!-- Custom line with better control -->
-<div style="width: 80%; height: 1px; background-color: #ccc; margin: 20px 0;"></div>
+<div style="width: 90%; height: 1px; background-color: #ccc; margin: 10px 0;"></div>
 
 <br><br> <!-- Push "Get in Touch" down a bit -->
 
@@ -88,7 +88,7 @@ and loving every stormy challenge along the way.<br>
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
 <!-- Custom line with better control -->
-<div style="width: 80%; height: 1px; background-color: #ccc; margin: 20px 0;"></div>
+<div style="width: 90%; height: 1px; background-color: #ccc; margin: 10px 0;"></div>
 
 </span>
 
@@ -113,3 +113,4 @@ and loving every stormy challenge along the way.<br>
 ---
 
 Thanks for stopping by — always open to new opportunities or collaborations!
+
