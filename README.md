@@ -77,8 +77,8 @@ I'm currently sailing through the 42 coding curriculum —<br>
 building everything from tiny Unix shells to full IRC servers —<br>
 and loving every stormy challenge along the way.<br>
 
-<!-- Adjusted line style -->
-<hr style="border: none; border-top: 1px solid #ccc; width: 85%; margin-left: 0;">
+<!-- Custom line with better control -->
+<div style="width: 80%; height: 1px; background-color: #ccc; margin: 20px 0;"></div>
 
 <br><br> <!-- Push "Get in Touch" down a bit -->
 
@@ -87,8 +87,8 @@ and loving every stormy challenge along the way.<br>
 - 📧 **Email:** nortolansoto@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
-<!-- Adjusted line style -->
-<hr style="border: none; border-top: 1px solid #ccc; width: 85%; margin-left: 0;">
+<!-- Custom line with better control -->
+<div style="width: 80%; height: 1px; background-color: #ccc; margin: 20px 0;"></div>
 
 </span>
 
