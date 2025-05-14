@@ -16,7 +16,7 @@ Originally from **Jerez de la Frontera**.<br>
 I'm currently sailing through the 42 coding curriculum<br>
 Building everything from tiny Unix shells<br>
 To full IRC servers — and loving every stormy challenge along the way.<br><br>
-
+<br><br><br>
 </span>
 <br><br>
 
