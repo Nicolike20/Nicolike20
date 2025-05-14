@@ -59,7 +59,7 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 
 <img align="right" src=./media/212693.gif style="object-fit: cover; height: 500px; float: right;">
 
-<br><br><br> <!-- Push "About me" down -->
+<br><br> <!-- Push "About me" down -->
 
 ## 👋 About me
 
