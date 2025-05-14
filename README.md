@@ -17,8 +17,6 @@ to full IRC servers — and loving every stormy challenge along the way.
 
 </span>
 
----
-
 ## 💻 Projects I'm Proud Of
 
 - **🌀 minishell**: A functional Unix shell that supports pipes, redirections, built-ins, and more.
