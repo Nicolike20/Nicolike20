@@ -19,7 +19,7 @@ building everything from tiny Unix shells to full IRC servers —<br>
 and loving every stormy challenge along the way.<br>
 
 
-<hr style="width: 5%; margin-left: 0;"> 
+<!-- <hr style="width: 5%; margin-left: 0;"> -->
 
 <br><br> 
 
@@ -29,7 +29,7 @@ and loving every stormy challenge along the way.<br>
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
 
 
-<hr style="width: 5%; margin-left: 0;"> 
+<!-- <hr style="width: 5%; margin-left: 0;"> -->
 
 </span>
 
