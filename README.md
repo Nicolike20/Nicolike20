@@ -38,7 +38,7 @@ and loving every stormy challenge along the way.<br>
 
 <br> <!-- Push "About me" down -->
 
-## 👋 About me
+### 👋 About me
 
 I'm a software development student based in **Madrid**.<br>
 Originally from **Jerez de la Frontera**.<br>
@@ -51,7 +51,7 @@ and loving every stormy challenge along the way.<br>
 
 <br><br> <!-- Push "Get in Touch" down a bit -->
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 - 📧 **Email:** nortolansoto@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/nortolan](https://www.linkedin.com/in/nortolan/)
