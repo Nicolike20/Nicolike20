@@ -7,6 +7,8 @@
 
 <img align="right" src=./media/212693.gif style="object-fit: cover; height: 500px; float: right;">
 
+## 👋 About me
+
 I'm a software development student based in **Madrid**.<br>
 Originally from **Jerez de la Frontera**.<br>
 I'm currently sailing through the 42 coding curriculum —<br>
