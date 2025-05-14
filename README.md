@@ -1,8 +1,22 @@
 <span align="center">
 
 # 🌺 Waddup! I'm Nico 🏴‍☠️ 
+</span>
 
-<table align="center" width="100%">
+<span align="left">
+
+<img align="right" src=./media/212693.gif style="object-fit: cover; height: 275px; float: right;">
+
+I'm a software development student based in **Madrid**.<br>
+Originally from **Jerez de la Frontera**.<br>
+I'm currently sailing through the 42 coding curriculum —<br>
+building everything from tiny Unix shells to full IRC servers —<br>
+and loving every stormy challenge along the way.
+
+</span>
+<br><br>
+
+<!--<table align="center" width="100%">
 <tr>
 <td style="font-size: 24px; padding-right: 20px;">
 
@@ -17,7 +31,7 @@ and loving every stormy challenge along the way.
 <img src="https://giffiles.alphacoders.com/212/212693.gif" width="500" alt="outer wilds banner"/>
 </td>
 </tr>
-</table>
+</table>-->
 </span>
 ## 💻 Projects I'm Proud Of
 
