@@ -12,11 +12,6 @@ I'm currently sailing through the 42 coding curriculum —<br>
 building everything from tiny Unix shells to full IRC servers —<br>
 and loving every stormy challenge along the way.
 
-<tr>
-  📫 Get in Touch
-📧 Email: nortolansoto@gmail.com
-💼 LinkedIn: linkedin.com/in/nortolan
-</tr>
 </td>
 <td>
 <img src="https://giffiles.alphacoders.com/212/212693.gif" width="500" alt="outer wilds banner"/>
