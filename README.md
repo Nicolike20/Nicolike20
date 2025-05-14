@@ -32,7 +32,7 @@ and loving every stormy challenge along the way.<br>
 </span> 
 <br><br>
 
-<div style="max-width: 60%; display: inline-block;">
+<div style="max-width: 30%; display: inline-block;">
 
 <img align="right" src=./media/212693.gif style="object-fit: cover; height: 500px; float: right;">
 
