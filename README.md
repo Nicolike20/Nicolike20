@@ -57,7 +57,7 @@ Thanks for stopping by — always open to new opportunities or collaborations!--
 
 <img align="right" src="./media/212693.gif" style="object-fit: cover; height: 500px; float: right; margin-left: 20px; margin-bottom: 20px;">
 
-<div style="padding-top: 300px;">
+<div style="padding-top: 60px;">
 
 ### <span style="display: inline-block; width: fit-content;">👋 About me</span>
 
