@@ -23,22 +23,6 @@ and loving every stormy challenge along the way.<br>
 </span>
 <br><br>
 
-<!--<table align="center" width="100%">
-<tr>
-<td style="font-size: 24px; padding-right: 20px;">
-
-I'm a software development student based in **Madrid**.<br>
-Originally from **Jerez de la Frontera**.<br>
-I'm currently sailing through the 42 coding curriculum —<br>
-building everything from tiny Unix shells to full IRC servers —<br>
-and loving every stormy challenge along the way.
-
-</td>
-<td>
-<img src="https://giffiles.alphacoders.com/212/212693.gif" width="500" alt="outer wilds banner"/>
-</td>
-</tr>
-</table>-->
 ## 💻 Projects I'm Proud Of
 
 - **🌀 minishell**: A functional Unix shell that supports pipes, redirections, built-ins, and more.
