@@ -8,7 +8,9 @@
 <span align="left">
 
 <p align="right">
-  <img src="https://giffiles.alphacoders.com/212/212693.gif" width="200" alt="outer wilds banner"/>
+  <!--<img src="https://giffiles.alphacoders.com/212/212693.gif" width="200" alt="outer wilds banner"/>-->
+  <img align="right" src="https://giffiles.alphacoders.com/212/212693.gif" style="object-fit: cover; height: 275px; float: right;">
+
 </p>
 
 I'm a software development student based in **Madrid**, originally from **Jerez de la Frontera**.  
