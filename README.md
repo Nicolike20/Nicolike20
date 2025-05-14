@@ -39,7 +39,6 @@ and loving every stormy challenge along the way.
 </td>
 </tr>
 </table>-->
-<span align="left">
 ## 💻 Projects I'm Proud Of
 
 - **🌀 minishell**: A functional Unix shell that supports pipes, redirections, built-ins, and more.
@@ -65,4 +64,3 @@ and loving every stormy challenge along the way.
 
 Thanks for stopping by — always open to new opportunities or collaborations!
 
-</span>
