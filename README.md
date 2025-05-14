@@ -66,7 +66,6 @@ and loving every stormy challenge along the way.
 </table>
 </td>
 <span>
----
 
 ## 💻 Projects I'm Proud Of
 
