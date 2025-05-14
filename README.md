@@ -16,6 +16,7 @@ I'm currently sailing through the 42 coding curriculum — building everything f
 to full IRC servers — and loving every stormy challenge along the way.
 
 </span>
+<br><br>
 
 ## 💻 Projects I'm Proud Of
 
